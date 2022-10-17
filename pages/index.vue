@@ -41,7 +41,7 @@
                         <h2 class="gradient1">TEST</h2><h2 class="gradient2">TEST</h2>
                     </div>
                     <div class="content-right">
-                        <img class="header" src="https://via.placeholder.com/350x350" />
+                        <img class="header" src="~/assets/images/telefoon.png" />
                     </div>
                 </li>
                 <li>
@@ -59,7 +59,7 @@
                         <h2 class="gradient1">TEST</h2><h2 class="gradient2">TEST</h2>
                     </div>
                     <div class="content-right">
-                        <img class="header" src="https://via.placeholder.com/350x350" />
+                        <img class="header" src="~/assets/images/telefoon.png" />
                     </div>
                 </li><li>
                     <div class="content-left">
@@ -76,7 +76,7 @@
                         <h2 class="gradient1">TEST</h2><h2 class="gradient2">TEST</h2>
                     </div>
                     <div class="content-right">
-                        <img class="header" src="https://via.placeholder.com/350x350" />
+                        <img class="header" src="~/assets/images/telefoon.png" />
                     </div>
                 </li><li>
                     <div class="content-left">
@@ -93,7 +93,7 @@
                         <h2 class="gradient1">TEST</h2><h2 class="gradient2">TEST</h2>
                     </div>
                     <div class="content-right">
-                        <img class="header" src="https://via.placeholder.com/350x350" />
+                        <img class="header" src="~/assets/images/telefoon.png" />
                     </div>
                 </li><li>
                     <div class="content-left">
@@ -110,7 +110,7 @@
                         <h2 class="gradient1">TEST</h2><h2 class="gradient2">TEST</h2>
                     </div>
                     <div class="content-right">
-                        <img class="header" src="https://via.placeholder.com/350x350" />
+                        <img class="header" src="~/assets/images/telefoon.png" />
                     </div>
                 </li><li>
                     <div class="content-left">
@@ -127,7 +127,7 @@
                         <h2 class="gradient1">TEST</h2><h2 class="gradient2">TEST</h2>
                     </div>
                     <div class="content-right">
-                        <img class="header" src="https://via.placeholder.com/350x350" />
+                        <img class="header" src="~/assets/images/telefoon.png" />
                     </div>
                 </li>
             </ul>

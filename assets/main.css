@@ -386,6 +386,12 @@ a {
 
 .content-right {
   float: right;
-  width: 350px;
+  max-width: 350px;
   margin-top: -88px;
+  margin-right: 100px;
+}
+
+
+.content-right img {
+  width: 250px;
 }
